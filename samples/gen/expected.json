@@ -1,0 +1,850 @@
+{
+ "meta": {
+  "склад": "fd2a3ff3-369b-11e5-b972-74d02b7dfd8c",
+  "организация": "6e3445bb-b5b8-11e4-8355-74d02b7dfd8c",
+  "завершен": "c1a94d82-69e5-11e6-9be3-e0cb4ed5f713",
+  "organizationInn": "7725192493"
+ },
+ "suppliers": {
+  "alfa": {
+   "inn": "6670365488",
+   "kpp": "667001001",
+   "name": "ООО \"АЛЬФАМАРТ\"",
+   "inDb": true
+  },
+  "rdom": {
+   "inn": "7610083466",
+   "kpp": "761001001",
+   "name": "ООО \"Русский дом\"",
+   "inDb": true
+  },
+  "tech": {
+   "inn": "7813429656",
+   "kpp": "781301001",
+   "name": "ООО \"ТехноСтрой\"",
+   "inDb": true
+  },
+  "hoz": {
+   "inn": "0045123789",
+   "kpp": "004501001",
+   "name": "ООО \"ХозОптТорг\"",
+   "inDb": false
+  }
+ },
+ "docs": {
+  "upd1": {
+   "file": "УПД АЛЬФАМАРТ 1245 от 18.11.2026.pdf",
+   "number": "1245",
+   "date": "2026-11-18",
+   "pages": 1,
+   "sellerInn": "6670365488",
+   "buyerInn": "7725192493",
+   "lines": 8,
+   "byArticle": 4,
+   "byBarcode": 2,
+   "byName": 1,
+   "bySupplierMap": 0,
+   "notFound": 1,
+   "wrongLines": [],
+   "totalWithoutVat": 34284.3,
+   "totalVat": 7542.55,
+   "totalWithVat": 41826.85,
+   "pricesIncludeVat": false,
+   "vatRate": "22%",
+   "rows": [
+    {
+     "line": 1,
+     "uuid": "8b476435-36a6-11e5-b972-74d02b7dfd8c",
+     "match": "артикул",
+     "quantity": 20,
+     "price": 312.48,
+     "amount": 6249.6,
+     "vat": 1374.91,
+     "total": 7624.51
+    },
+    {
+     "line": 2,
+     "uuid": "8b476437-36a6-11e5-b972-74d02b7dfd8c",
+     "match": "артикул",
+     "quantity": 30,
+     "price": 129.58,
+     "amount": 3887.4,
+     "vat": 855.23,
+     "total": 4742.63
+    },
+    {
+     "line": 3,
+     "uuid": "8b476416-36a6-11e5-b972-74d02b7dfd8c",
+     "match": "артикул",
+     "quantity": 4,
+     "price": 1647.34,
+     "amount": 6589.36,
+     "vat": 1449.66,
+     "total": 8039.02
+    },
+    {
+     "line": 4,
+     "uuid": "8b476417-36a6-11e5-b972-74d02b7dfd8c",
+     "match": "штрихкод",
+     "quantity": 3,
+     "price": 1466.92,
+     "amount": 4400.76,
+     "vat": 968.17,
+     "total": 5368.93
+    },
+    {
+     "line": 5,
+     "uuid": "ef00feeb-36a2-11e5-b972-74d02b7dfd8c",
+     "match": "штрихкод",
+     "quantity": 6,
+     "price": 343.48,
+     "amount": 2060.88,
+     "vat": 453.39,
+     "total": 2514.27
+    },
+    {
+     "line": 6,
+     "uuid": "8b476439-36a6-11e5-b972-74d02b7dfd8c",
+     "match": "наименование",
+     "quantity": 25,
+     "price": 163.06,
+     "amount": 4076.5,
+     "vat": 896.83,
+     "total": 4973.33
+    },
+    {
+     "line": 7,
+     "uuid": "",
+     "match": "нет",
+     "quantity": 10,
+     "price": 389.5,
+     "amount": 3895,
+     "vat": 856.9,
+     "total": 4751.9
+    },
+    {
+     "line": 8,
+     "uuid": "8b47643b-36a6-11e5-b972-74d02b7dfd8c",
+     "match": "артикул",
+     "quantity": 10,
+     "price": 312.48,
+     "amount": 3124.8,
+     "vat": 687.46,
+     "total": 3812.26
+    }
+   ]
+  },
+  "upd2": {
+   "file": "УПД АЛЬФАМАРТ 1302 от 20.11.2026.pdf",
+   "number": "1302",
+   "date": "2026-11-20",
+   "pages": 2,
+   "sellerInn": "6670365488",
+   "buyerInn": "7725192493",
+   "lines": 36,
+   "byArticle": 35,
+   "byBarcode": 0,
+   "byName": 0,
+   "bySupplierMap": 1,
+   "notFound": 0,
+   "wrongLines": [],
+   "totalWithoutVat": 69895.16,
+   "totalVat": 15376.91,
+   "totalWithVat": 85272.07,
+   "pricesIncludeVat": false,
+   "vatRate": "22%",
+   "rows": [
+    {
+     "line": 1,
+     "uuid": "8b476436-36a6-11e5-b972-74d02b7dfd8c",
+     "match": "артикул",
+     "quantity": 2,
+     "price": 277.14,
+     "amount": 554.28,
+     "vat": 121.94,
+     "total": 676.22
+    },
+    {
+     "line": 2,
+     "uuid": "8b476438-36a6-11e5-b972-74d02b7dfd8c",
+     "match": "артикул",
+     "quantity": 3,
+     "price": 246.76,
+     "amount": 740.28,
+     "vat": 162.86,
+     "total": 903.14
+    },
+    {
+     "line": 3,
+     "uuid": "8b47643a-36a6-11e5-b972-74d02b7dfd8c",
+     "match": "артикул",
+     "quantity": 4,
+     "price": 288.92,
+     "amount": 1155.68,
+     "vat": 254.25,
+     "total": 1409.93
+    },
+    {
+     "line": 4,
+     "uuid": "8b47641a-36a6-11e5-b972-74d02b7dfd8c",
+     "match": "артикул",
+     "quantity": 5,
+     "price": 1787.46,
+     "amount": 8937.3,
+     "vat": 1966.21,
+     "total": 10903.51
+    },
+    {
+     "line": 5,
+     "uuid": "8b47641b-36a6-11e5-b972-74d02b7dfd8c",
+     "match": "артикул",
+     "quantity": 6,
+     "price": 1773.2,
+     "amount": 10639.2,
+     "vat": 2340.62,
+     "total": 12979.82
+    },
+    {
+     "line": 6,
+     "uuid": "8b47641c-36a6-11e5-b972-74d02b7dfd8c",
+     "match": "артикул",
+     "quantity": 7,
+     "price": 1875.5,
+     "amount": 13128.5,
+     "vat": 2888.27,
+     "total": 16016.77
+    },
+    {
+     "line": 7,
+     "uuid": "8b47643c-36a6-11e5-b972-74d02b7dfd8c",
+     "match": "артикул",
+     "quantity": 8,
+     "price": 395.56,
+     "amount": 3164.48,
+     "vat": 696.19,
+     "total": 3860.67
+    },
+    {
+     "line": 8,
+     "uuid": "8b47643d-36a6-11e5-b972-74d02b7dfd8c",
+     "match": "артикул",
+     "quantity": 2,
+     "price": 115.32,
+     "amount": 230.64,
+     "vat": 50.74,
+     "total": 281.38
+    },
+    {
+     "line": 9,
+     "uuid": "8b47643e-36a6-11e5-b972-74d02b7dfd8c",
+     "match": "артикул",
+     "quantity": 3,
+     "price": 121.52,
+     "amount": 364.56,
+     "vat": 80.2,
+     "total": 444.76
+    },
+    {
+     "line": 10,
+     "uuid": "8b47643f-36a6-11e5-b972-74d02b7dfd8c",
+     "match": "артикул",
+     "quantity": 4,
+     "price": 151.9,
+     "amount": 607.6,
+     "vat": 133.67,
+     "total": 741.27
+    },
+    {
+     "line": 11,
+     "uuid": "8b476440-36a6-11e5-b972-74d02b7dfd8c",
+     "match": "артикул",
+     "quantity": 5,
+     "price": 93.62,
+     "amount": 468.1,
+     "vat": 102.98,
+     "total": 571.08
+    },
+    {
+     "line": 12,
+     "uuid": "8b476441-36a6-11e5-b972-74d02b7dfd8c",
+     "match": "артикул",
+     "quantity": 6,
+     "price": 456.32,
+     "amount": 2737.92,
+     "vat": 602.34,
+     "total": 3340.26
+    },
+    {
+     "line": 13,
+     "uuid": "8b476442-36a6-11e5-b972-74d02b7dfd8c",
+     "match": "артикул",
+     "quantity": 7,
+     "price": 186.62,
+     "amount": 1306.34,
+     "vat": 287.39,
+     "total": 1593.73
+    },
+    {
+     "line": 14,
+     "uuid": "8b476443-36a6-11e5-b972-74d02b7dfd8c",
+     "match": "артикул",
+     "quantity": 8,
+     "price": 212.66,
+     "amount": 1701.28,
+     "vat": 374.28,
+     "total": 2075.56
+    },
+    {
+     "line": 15,
+     "uuid": "8b476444-36a6-11e5-b972-74d02b7dfd8c",
+     "match": "артикул",
+     "quantity": 2,
+     "price": 113.46,
+     "amount": 226.92,
+     "vat": 49.92,
+     "total": 276.84
+    },
+    {
+     "line": 16,
+     "uuid": "8b476445-36a6-11e5-b972-74d02b7dfd8c",
+     "match": "артикул",
+     "quantity": 3,
+     "price": 199.64,
+     "amount": 598.92,
+     "vat": 131.76,
+     "total": 730.68
+    },
+    {
+     "line": 17,
+     "uuid": "8b476446-36a6-11e5-b972-74d02b7dfd8c",
+     "match": "артикул",
+     "quantity": 4,
+     "price": 233.74,
+     "amount": 934.96,
+     "vat": 205.69,
+     "total": 1140.65
+    },
+    {
+     "line": 18,
+     "uuid": "8b476447-36a6-11e5-b972-74d02b7dfd8c",
+     "match": "артикул",
+     "quantity": 5,
+     "price": 352.16,
+     "amount": 1760.8,
+     "vat": 387.38,
+     "total": 2148.18
+    },
+    {
+     "line": 19,
+     "uuid": "8b476448-36a6-11e5-b972-74d02b7dfd8c",
+     "match": "артикул",
+     "quantity": 6,
+     "price": 103.54,
+     "amount": 621.24,
+     "vat": 136.67,
+     "total": 757.91
+    },
+    {
+     "line": 20,
+     "uuid": "8b476449-36a6-11e5-b972-74d02b7dfd8c",
+     "match": "артикул",
+     "quantity": 7,
+     "price": 142.6,
+     "amount": 998.2,
+     "vat": 219.6,
+     "total": 1217.8
+    },
+    {
+     "line": 21,
+     "uuid": "8b47644a-36a6-11e5-b972-74d02b7dfd8c",
+     "match": "артикул",
+     "quantity": 8,
+     "price": 65.1,
+     "amount": 520.8,
+     "vat": 114.58,
+     "total": 635.38
+    },
+    {
+     "line": 22,
+     "uuid": "8b47644b-36a6-11e5-b972-74d02b7dfd8c",
+     "match": "артикул",
+     "quantity": 2,
+     "price": 43.4,
+     "amount": 86.8,
+     "vat": 19.1,
+     "total": 105.9
+    },
+    {
+     "line": 23,
+     "uuid": "8b47644c-36a6-11e5-b972-74d02b7dfd8c",
+     "match": "артикул",
+     "quantity": 3,
+     "price": 744.62,
+     "amount": 2233.86,
+     "vat": 491.45,
+     "total": 2725.31
+    },
+    {
+     "line": 24,
+     "uuid": "8b47644d-36a6-11e5-b972-74d02b7dfd8c",
+     "match": "артикул",
+     "quantity": 4,
+     "price": 138.88,
+     "amount": 555.52,
+     "vat": 122.21,
+     "total": 677.73
+    },
+    {
+     "line": 25,
+     "uuid": "8b47644e-36a6-11e5-b972-74d02b7dfd8c",
+     "match": "артикул",
+     "quantity": 5,
+     "price": 267.22,
+     "amount": 1336.1,
+     "vat": 293.94,
+     "total": 1630.04
+    },
+    {
+     "line": 26,
+     "uuid": "8b47644f-36a6-11e5-b972-74d02b7dfd8c",
+     "match": "артикул",
+     "quantity": 6,
+     "price": 212.04,
+     "amount": 1272.24,
+     "vat": 279.89,
+     "total": 1552.13
+    },
+    {
+     "line": 27,
+     "uuid": "8b476450-36a6-11e5-b972-74d02b7dfd8c",
+     "match": "артикул",
+     "quantity": 7,
+     "price": 190.34,
+     "amount": 1332.38,
+     "vat": 293.12,
+     "total": 1625.5
+    },
+    {
+     "line": 28,
+     "uuid": "8b476451-36a6-11e5-b972-74d02b7dfd8c",
+     "match": "артикул",
+     "quantity": 8,
+     "price": 377.58,
+     "amount": 3020.64,
+     "vat": 664.54,
+     "total": 3685.18
+    },
+    {
+     "line": 29,
+     "uuid": "8b476452-36a6-11e5-b972-74d02b7dfd8c",
+     "match": "артикул",
+     "quantity": 2,
+     "price": 282.1,
+     "amount": 564.2,
+     "vat": 124.12,
+     "total": 688.32
+    },
+    {
+     "line": 30,
+     "uuid": "8b476453-36a6-11e5-b972-74d02b7dfd8c",
+     "match": "артикул",
+     "quantity": 3,
+     "price": 212.04,
+     "amount": 636.12,
+     "vat": 139.95,
+     "total": 776.07
+    },
+    {
+     "line": 31,
+     "uuid": "8b476455-36a6-11e5-b972-74d02b7dfd8c",
+     "match": "артикул",
+     "quantity": 4,
+     "price": 490.42,
+     "amount": 1961.68,
+     "vat": 431.57,
+     "total": 2393.25
+    },
+    {
+     "line": 32,
+     "uuid": "8b476456-36a6-11e5-b972-74d02b7dfd8c",
+     "match": "артикул",
+     "quantity": 5,
+     "price": 57.04,
+     "amount": 285.2,
+     "vat": 62.74,
+     "total": 347.94
+    },
+    {
+     "line": 33,
+     "uuid": "8b476457-36a6-11e5-b972-74d02b7dfd8c",
+     "match": "артикул",
+     "quantity": 6,
+     "price": 116.56,
+     "amount": 699.36,
+     "vat": 153.86,
+     "total": 853.22
+    },
+    {
+     "line": 34,
+     "uuid": "8b476458-36a6-11e5-b972-74d02b7dfd8c",
+     "match": "артикул",
+     "quantity": 7,
+     "price": 73.16,
+     "amount": 512.12,
+     "vat": 112.67,
+     "total": 624.79
+    },
+    {
+     "line": 35,
+     "uuid": "ef00fee2-36a2-11e5-b972-74d02b7dfd8c",
+     "match": "артикул",
+     "quantity": 8,
+     "price": 256.68,
+     "amount": 2053.44,
+     "vat": 451.76,
+     "total": 2505.2
+    },
+    {
+     "line": 36,
+     "uuid": "",
+     "match": "соответствие",
+     "quantity": 5,
+     "price": 389.5,
+     "amount": 1947.5,
+     "vat": 428.45,
+     "total": 2375.95
+    }
+   ]
+  },
+  "rdom_err": {
+   "file": "УПД Русский дом РД-0457 от 19.11.2026.pdf",
+   "number": "РД-0457",
+   "date": "2026-11-19",
+   "pages": 1,
+   "sellerInn": "7610083466",
+   "buyerInn": "7725192493",
+   "lines": 5,
+   "byArticle": 5,
+   "byBarcode": 0,
+   "byName": 0,
+   "bySupplierMap": 0,
+   "notFound": 0,
+   "wrongLines": [
+    3
+   ],
+   "totalWithoutVat": 40120.22,
+   "totalVat": 8826.45,
+   "totalWithVat": 48946.67,
+   "pricesIncludeVat": false,
+   "vatRate": "22%",
+   "rows": [
+    {
+     "line": 1,
+     "uuid": "8b476438-36a6-11e5-b972-74d02b7dfd8c",
+     "match": "артикул",
+     "quantity": 15,
+     "price": 246.76,
+     "amount": 3701.4,
+     "vat": 814.31,
+     "total": 4515.71
+    },
+    {
+     "line": 2,
+     "uuid": "8b47643a-36a6-11e5-b972-74d02b7dfd8c",
+     "match": "артикул",
+     "quantity": 20,
+     "price": 288.92,
+     "amount": 5778.4,
+     "vat": 1271.25,
+     "total": 7049.65
+    },
+    {
+     "line": 3,
+     "uuid": "8b47641a-36a6-11e5-b972-74d02b7dfd8c",
+     "match": "артикул",
+     "quantity": 12,
+     "price": 1787.46,
+     "amount": 21467.52,
+     "vat": 4722.85,
+     "total": 26190.37
+    },
+    {
+     "line": 4,
+     "uuid": "8b47641b-36a6-11e5-b972-74d02b7dfd8c",
+     "match": "артикул",
+     "quantity": 2,
+     "price": 1773.2,
+     "amount": 3546.4,
+     "vat": 780.21,
+     "total": 4326.61
+    },
+    {
+     "line": 5,
+     "uuid": "8b47641c-36a6-11e5-b972-74d02b7dfd8c",
+     "match": "артикул",
+     "quantity": 3,
+     "price": 1875.5,
+     "amount": 5626.5,
+     "vat": 1237.83,
+     "total": 6864.33
+    }
+   ]
+  },
+  "newsup": {
+   "file": "УПД ХозОптТорг 58 от 17.11.2026.pdf",
+   "number": "58",
+   "date": "2026-11-17",
+   "pages": 1,
+   "sellerInn": "0045123789",
+   "buyerInn": "7725192493",
+   "lines": 3,
+   "byArticle": 3,
+   "byBarcode": 0,
+   "byName": 0,
+   "bySupplierMap": 0,
+   "notFound": 0,
+   "wrongLines": [],
+   "totalWithoutVat": 16962.02,
+   "totalVat": 3731.64,
+   "totalWithVat": 20693.66,
+   "pricesIncludeVat": false,
+   "vatRate": "22%",
+   "rows": [
+    {
+     "line": 1,
+     "uuid": "8b476436-36a6-11e5-b972-74d02b7dfd8c",
+     "match": "артикул",
+     "quantity": 40,
+     "price": 268.83,
+     "amount": 10753.2,
+     "vat": 2365.7,
+     "total": 13118.9
+    },
+    {
+     "line": 2,
+     "uuid": "8b476417-36a6-11e5-b972-74d02b7dfd8c",
+     "match": "артикул",
+     "quantity": 2,
+     "price": 1422.91,
+     "amount": 2845.82,
+     "vat": 626.08,
+     "total": 3471.9
+    },
+    {
+     "line": 3,
+     "uuid": "8b47643a-36a6-11e5-b972-74d02b7dfd8c",
+     "match": "артикул",
+     "quantity": 12,
+     "price": 280.25,
+     "amount": 3363,
+     "vat": 739.86,
+     "total": 4102.86
+    }
+   ]
+  },
+  "otherbuyer": {
+   "file": "УПД АЛЬФАМАРТ 1251 от 18.11.2026.pdf",
+   "number": "1251",
+   "date": "2026-11-18",
+   "pages": 1,
+   "sellerInn": "6670365488",
+   "buyerInn": "0059302146",
+   "lines": 2,
+   "byArticle": 2,
+   "byBarcode": 0,
+   "byName": 0,
+   "bySupplierMap": 0,
+   "notFound": 0,
+   "wrongLines": [],
+   "totalWithoutVat": 39022.8,
+   "totalVat": 8585.02,
+   "totalWithVat": 47607.82,
+   "pricesIncludeVat": false,
+   "vatRate": "22%",
+   "rows": [
+    {
+     "line": 1,
+     "uuid": "8b476435-36a6-11e5-b972-74d02b7dfd8c",
+     "match": "артикул",
+     "quantity": 100,
+     "price": 312.48,
+     "amount": 31248,
+     "vat": 6874.56,
+     "total": 38122.56
+    },
+    {
+     "line": 2,
+     "uuid": "8b476437-36a6-11e5-b972-74d02b7dfd8c",
+     "match": "артикул",
+     "quantity": 60,
+     "price": 129.58,
+     "amount": 7774.8,
+     "vat": 1710.46,
+     "total": 9485.26
+    }
+   ]
+  },
+  "scan": {
+   "file": "Скан УПД Русский дом РД-0461.pdf",
+   "number": "РД-0461",
+   "date": "2026-11-20",
+   "pages": 1,
+   "sellerInn": "7610083466",
+   "buyerInn": "7725192493",
+   "lines": 2,
+   "byArticle": 2,
+   "byBarcode": 0,
+   "byName": 0,
+   "bySupplierMap": 0,
+   "notFound": 0,
+   "wrongLines": [],
+   "totalWithoutVat": 4967.44,
+   "totalVat": 1092.83,
+   "totalWithVat": 6060.27,
+   "pricesIncludeVat": false,
+   "vatRate": "22%",
+   "rows": [
+    {
+     "line": 1,
+     "uuid": "8b476438-36a6-11e5-b972-74d02b7dfd8c",
+     "match": "артикул",
+     "quantity": 10,
+     "price": 246.76,
+     "amount": 2467.6,
+     "vat": 542.87,
+     "total": 3010.47
+    },
+    {
+     "line": 2,
+     "uuid": "8b47643b-36a6-11e5-b972-74d02b7dfd8c",
+     "match": "артикул",
+     "quantity": 8,
+     "price": 312.48,
+     "amount": 2499.84,
+     "vat": 549.96,
+     "total": 3049.8
+    }
+   ]
+  },
+  "usn": {
+   "file": "Счёт ТехноСтрой 215 от 19.11.2026.pdf",
+   "number": "215",
+   "date": "2026-11-19",
+   "pages": 1,
+   "sellerInn": "7813429656",
+   "buyerInn": "7725192493",
+   "lines": 4,
+   "byArticle": 4,
+   "byBarcode": 0,
+   "byName": 0,
+   "bySupplierMap": 0,
+   "notFound": 0,
+   "wrongLines": [],
+   "totalWithoutVat": 9570.96,
+   "totalVat": 478.54,
+   "totalWithVat": 10049.5,
+   "pricesIncludeVat": true,
+   "vatRate": "5%",
+   "rows": [
+    {
+     "line": 1,
+     "uuid": "8b476416-36a6-11e5-b972-74d02b7dfd8c",
+     "match": "артикул",
+     "quantity": 2,
+     "price": 1729.71,
+     "amount": 3459.42,
+     "vat": 164.73,
+     "total": 3459.42
+    },
+    {
+     "line": 2,
+     "uuid": "8b47641a-36a6-11e5-b972-74d02b7dfd8c",
+     "match": "артикул",
+     "quantity": 1,
+     "price": 1876.83,
+     "amount": 1876.83,
+     "vat": 89.37,
+     "total": 1876.83
+    },
+    {
+     "line": 3,
+     "uuid": "ef00feeb-36a2-11e5-b972-74d02b7dfd8c",
+     "match": "артикул",
+     "quantity": 5,
+     "price": 360.65,
+     "amount": 1803.25,
+     "vat": 85.87,
+     "total": 1803.25
+    },
+    {
+     "line": 4,
+     "uuid": "8b476436-36a6-11e5-b972-74d02b7dfd8c",
+     "match": "артикул",
+     "quantity": 10,
+     "price": 291,
+     "amount": 2910,
+     "vat": 138.57,
+     "total": 2910
+    }
+   ]
+  },
+  "batch": {
+   "file": "УПД АЛЬФАМАРТ 1310 от 21.11.2026.pdf",
+   "number": "1310",
+   "date": "2026-11-21",
+   "pages": 1,
+   "sellerInn": "6670365488",
+   "buyerInn": "7725192493",
+   "lines": 3,
+   "byArticle": 3,
+   "byBarcode": 0,
+   "byName": 0,
+   "bySupplierMap": 0,
+   "notFound": 0,
+   "wrongLines": [],
+   "totalWithoutVat": 23175.6,
+   "totalVat": 5098.63,
+   "totalWithVat": 28274.23,
+   "pricesIncludeVat": false,
+   "vatRate": "22%",
+   "rows": [
+    {
+     "line": 1,
+     "uuid": "8b476435-36a6-11e5-b972-74d02b7dfd8c",
+     "match": "артикул",
+     "quantity": 50,
+     "price": 312.48,
+     "amount": 15624,
+     "vat": 3437.28,
+     "total": 19061.28
+    },
+    {
+     "line": 2,
+     "uuid": "8b47643a-36a6-11e5-b972-74d02b7dfd8c",
+     "match": "артикул",
+     "quantity": 20,
+     "price": 288.92,
+     "amount": 5778.4,
+     "vat": 1271.25,
+     "total": 7049.65
+    },
+    {
+     "line": 3,
+     "uuid": "8b47641b-36a6-11e5-b972-74d02b7dfd8c",
+     "match": "артикул",
+     "quantity": 1,
+     "price": 1773.2,
+     "amount": 1773.2,
+     "vat": 390.1,
+     "total": 2163.3
+    }
+   ]
+  }
+ },
+ "unknownCode": "АМ-77015",
+ "unknownMapsTo": "8b47645c-36a6-11e5-b972-74d02b7dfd8c",
+ "scanReadInn": "7610088466",
+ "inn12Valid": "001234567887",
+ "inn12Invalid": "001234567888",
+ "apiKey": "sk-ant-api03-mock-key-for-tests-only"
+}
