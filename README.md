@@ -108,7 +108,7 @@
 
 Проверено на «Управление нашей фирмой (учебная)» 3.0.13.251, платформа 8.5.1, файловый режим. С живым ключом Claude API обработка не запускалась. Формат запроса и ответов сверен с документацией Claude API на ноябрь 2026 года.
 
-Другие работы: [загрузка прайса поставщика](https://github.com/matbcontrol/1c-supplier-price-import), [обмен с Wildberries](https://github.com/matbcontrol/1c-wb-exchange), [лист сборки заказов WB](https://github.com/matbcontrol/1c-wb-picking-list), [прибыль товаров на WB](https://github.com/matbcontrol/1c-wb-profit-report).
+Другие работы: [загрузка прайса поставщика](https://github.com/matbcontrol/1c-supplier-price-import), [обмен с Wildberries](https://github.com/matbcontrol/1c-wb-exchange), [лист сборки заказов WB](https://github.com/matbcontrol/1c-wb-picking-list), [прибыль товаров на WB](https://github.com/matbcontrol/1c-wb-profit-report), [номенклатура из УНФ в Бухгалтерию без дублей](https://github.com/matbcontrol/1c-unf-bp-sync).
 
 ## Нужна похожая обработка?
 
